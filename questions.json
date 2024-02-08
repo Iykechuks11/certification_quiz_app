@@ -1,5 +1,25 @@
 [
     {
+        "question": "When are we safe and secure?",
+        "options": [
+            "A) When we are in a state free from unacceptable risks",
+            "B) When we implement the BSI.",
+            "C) When ISMS is our main goal.",
+            "D) When we implement the Demin's feamework."
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the BSI?",
+        "options": [
+            "A) The BSI is the Federal Cyber Security Authority and the chief architect of secure digitalisation in Germany.",
+            "B) The BSI is the Federal Cyber Security Authority and the chief architect of secure digitalisation in Britain.",
+            "C) The BSI is the Federal Cyber Security Authority and the chief architect of secure digitalisation in Albania.",
+            "D) All options are correct."
+        ],
+        "correct_answer": "B"
+    },
+    {
         "question": "What is the main goal of Risk Management according to ISO 31000?",
         "options": [
             "A) To eliminate all risks",
