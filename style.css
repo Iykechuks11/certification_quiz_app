@@ -1,0 +1,92 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f2f5;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+header h1 {
+    text-align: center;
+    color: #007bff;
+}
+
+.question {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.options {
+    list-style: none;
+    padding: 0;
+}
+
+.options li {
+    background-color: #f9f9f9;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.options li:hover {
+    background-color: #e9ecef;
+}
+
+#start,
+.next-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto 20px;
+}
+
+.next-btn {
+    background-color: #007bff;
+}
+
+.next-btn:hover,
+#start:hover {
+    background-color: #0056b3;
+}
+
+#feedback {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.correct {
+    color: #28a745;
+}
+
+.incorrect {
+    color: #dc3545;
+}
+
+footer p {
+    text-align: center;
+    margin-top: 20px;
+    color: #666;
+}
+
+@media (max-width: 600px) {
+    .container {
+        margin: 10px;
+    }
+}

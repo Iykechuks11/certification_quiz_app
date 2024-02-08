@@ -1,0 +1,425 @@
+[
+    {
+        "question": "What is the main goal of Risk Management according to ISO 31000?",
+        "options": [
+            "A) To eliminate all risks",
+            "B) To ensure a balance between opportunities and risks",
+            "C) To maximize profits",
+            "D) To minimize operational costs"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which of the following is NOT a principle of risk management?",
+        "options": [
+            "A) Risk treatment depends only on the nature of the risk",
+            "B) Risk management must be consistent",
+            "C) Risk appetite can vary for different areas of activity",
+            "D) Identification, evaluation, and treatment of risks are key steps"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The ISO 27000 standards provides a certifiable framework for Information Security Management Systems (ISMS).",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct_answer": "True"
+    },
+    {
+        "question": "IT Baseline Protection does not require a risk analysis step.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct_answer": "False"
+    },
+    {
+        "question": "An Information Security Officer (ISO) should be responsible for the ISMS.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct_answer": "True"
+    },
+    {
+        "type": "True/False",
+        "question": "For an effective ISMS, the structural analysis should exclude external service providers to simplify the process.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct_answer": "False"
+    },
+    {
+        "question": "What is the main goal of Risk Management according to ISO 31000?",
+        "options": [
+            "A) To eliminate all risks",
+            "B) To ensure a balance between opportunities and risks",
+            "C) To maximize profits",
+            "D) To minimize operational costs"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which of the following is NOT a principle of risk management?",
+        "options": [
+            "A) Risk treatment depends only on the nature of the risk",
+            "B) Risk management must be consistent",
+            "C) Risk appetite can vary for different areas of activity",
+            "D) Identification, evaluation, and treatment of risks are key steps"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the purpose of an Information Security Management System (ISMS)?",
+        "options": [
+            "A) To document all information security breaches",
+            "B) To ensure compliance with physical security measures",
+            "C) To manage information security risks appropriately",
+            "D) To encrypt all data within an organization"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which document type is typically reviewed at least annually?",
+        "options": [
+            "A) Strategic documents",
+            "B) Tactical documents",
+            "C) Operational documents",
+            "D) Evidence"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the first step in initiating an Information Security Management System (ISMS)?",
+        "options": [
+            "A) Conducting a risk analysis",
+            "B) Appointing an Information Security Officer (ISO)",
+            "C) Defining the information security policy",
+            "D) Identifying all information assets"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which of the following is essential for defining the scope within an ISMS?",
+        "options": [
+            "A) Including only IT systems",
+            "B) Focusing solely on external threats",
+            "C) Clearly determining which processes and information are within the scope",
+            "D) Excluding third-party interfaces"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "In the structural analysis, which assets MUST be included?",
+        "options": [
+            "A) Only the IT systems with internet access",
+            "B) Only the financial data",
+            "C) All assets relevant for information processing",
+            "D) Only the physical security systems"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What principle is applied when determining the protection requirements for IT assets?",
+        "options": [
+            "A) Least privilege principle",
+            "B) Maximum principle",
+            "C) Minimum principle",
+            "D) Separation of duties principle"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which of the following accurately describes the purpose of basic security checks within an ISMS?",
+        "options": [
+            "A) To replace detailed risk analysis entirely",
+            "B) To provide a preliminary level of security assessment before detailed analysis",
+            "C) To focus only on external threats and vulnerabilities",
+            "D) To serve as the only necessary step in security certification"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the primary focus of emergency management within an ISMS framework?",
+        "options": [
+            "A) Preventing all potential emergencies through proactive measures",
+            "B) Ensuring business continuity and minimizing damage in the event of an incident",
+            "C) Documenting emergencies only after they have occurred for insurance purposes",
+            "D) Focusing solely on IT-related emergencies"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the primary goal of implementing an ISMS?",
+        "options": [
+            "A) To achieve regulatory compliance",
+            "B) To protect organizational assets",
+            "C) To create and maintain a security concept",
+            "D) To ensure business continuity"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "How does the IT Baseline Protection approach differ from ISO 2700x standards?",
+        "options": [
+            "A) It is more focused on compliance than risk management",
+            "B) It provides more concrete implementation instructions",
+            "C) It is less comprehensive and detailed",
+            "D) It applies only to digital information systems"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The ISO 27000 standards provides a certifiable framework for Information Security Management Systems (ISMS). True or False?",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct_answer": "True"
+    },
+    {
+        "question": "IT Baseline Protection does not require a risk analysis step. True or False?",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct_answer": "False"
+    },
+    {
+        "question": "An Information Security Officer (ISO) should be responsible for the ISMS. True or False?",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct_answer": "True"
+    },
+    {
+        "question": "For an effective ISMS, the structural analysis should exclude external service providers to simplify the process. True or False?",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct_answer": "False"
+    },
+    {
+        "question": "Which element is crucial when considering the effectiveness of access control measures?",
+        "options": [
+            "A) Implementing biometric security systems for all access points",
+            "B) Ensuring that access rights are regularly reviewed and updated",
+            "C) Limiting access control measures to digital systems only",
+            "D) Using a single factor authentication for ease of access"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What are the main components of an Information Security Management System (ISMS) according to the document?",
+        "options": [
+            "A) Policies, Procedures, Controls, Audits",
+            "B) Policies, Controls, Audits",
+            "C) Policies, Procedures, Audits",
+            "A) Procedures, Controls, Audits"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which ISO standard is primarily concerned with Information Security Risk Management?",
+        "options": [
+            "A) ISO 27001",
+            "B) ISO 27002",
+            "C) ISO 27005",
+            "D) ISO 31000"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What principle is suggested for effective solution achievement in managing safety/security risks?",
+        "options": [
+            "A) Divide and rule",
+            "B) Precautionary principle",
+            "C) Risk acceptance",
+            "D) Risk transference"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "What are the strategic, tactical, and operational document control elements within an ISMS?",
+        "options": [
+            "A) Strategy, Standard Procedures, Work Instructions",
+            "B) Policies, Procedures, Controls, Audits",
+            "C) Plan, Do, Check and Act"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "What are the strategic, tactical, and operational document control elements within an ISMS?",
+        "options": [
+            "A) Strategy, Standard Procedures, Work Instructions",
+            "B) Policies, Procedures, Controls, Audits",
+            "C) Plan, Do, Check and Act"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the primary objective of modeling in the context of IT Baseline Protection according to BSI?",
+        "options": [
+            "A) To provide a comprehensive cybersecurity training program",
+            "B) To assign modules of the IT Baseline Protection Compendium to each target object to ensure comprehensive coverage of security measures",
+            "C) To certify IT systems and components",
+            "D) To create a new encryption standard"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "How are the components of the IT baseline protection compendium structured?",
+        "options": [
+            "A) Based on international cybersecurity treaties",
+            "B) According to the latest technology trends",
+            "C) According to a defined modular principle, which includes hazards, requirements, and implementation notes/measures",
+            "D) By the level of security clearance required"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What are the types of requirements identified within IT Baseline Protection Modules?",
+        "options": [
+            "A) Basic Requirements (mandatory), Standard Requirements (should be implemented unless justifiably omitted), and Requirements from an increased need for protection (optional and considered during risk analysis)",
+            "B) General Requirements, Specific Requirements, and Optional Enhancements",
+            "C) Public Requirements, Private Requirements, and Secret Requirements",
+            "D) Initial Requirements, Intermediate Requirements, and Advanced Requirements"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the process for carrying out a risk analysis according to BSI Standard 200-3?",
+        "options": [
+            "A) Defining security policies, conducting training, and enforcing policies",
+            "B) Installing security software, monitoring networks, and responding to incidents",
+            "C) The process includes the selection of target objects, identification of hazards, evaluation of risks, risk treatment selection, and realization planning",
+            "D) Assessing business impact, reviewing legal implications, and consulting stakeholders"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "How is the implementation status categorized in the IT baseline protection check?",
+        "options": [
+            "A) New, In Progress, Completed, Deprecated",
+            "B) Implemented (Yes), Partially implemented, Open (No), or Dispensable",
+            "C) Low, Medium, High, Critical",
+            "D) Conceptual, Developmental, Operational, Retirement"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What factors are considered critical for the success of an IT baseline protection check?",
+        "options": [
+            "A) The price of the security solutions, the brand of the hardware used, and the popularity of the software",
+            "B) The color scheme of the security documentation, the office layout, and the type of coffee in the break room",
+            "C) Critical factors include the degree of implementation of requirements, preparation for the check, involvement of responsible persons, and utilization of interviews and document reviews",
+            "D) The weather conditions, the phase of the moon, and the stock market performance"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Describe the \"Risk treatment selection\" process outlined in the document.",
+        "options": [
+            "A) Choosing the most expensive option to ensure maximum security",
+            "B) Selecting the easiest solution to implement regardless of its effectiveness",
+            "C) The process involves selecting one of the following options for each risk: Risk avoidance, Risk reduction, Risk transfer, or Risk acceptance",
+            "D) Always choosing to accept the risk to save on costs"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the objective of the realization plan in the context of IT Baseline Protection?",
+        "options": [
+            "A) To win cybersecurity awards",
+            "B) To intimidate potential hackers with advanced terminology",
+            "C) The objective is to plan, support, and monitor the implementation of security measures efficiently within available resources and document the planning in the safety concept or an attached implementation plan",
+            "D) To ensure that all employees can recite the security policy by heart"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the purpose of continuous improvement in the context of IT Baseline Protection?",
+        "options": [
+            "A) To ensure compliance with international standards at all times",
+            "B) To regularly review the information security process for effectiveness and efficiency and to initiate any necessary corrective measures",
+            "C) To reduce the overall cost of the IT security budget annually",
+            "D) To increase the complexity of security measures"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Describe the PDCA cycle's role in continuous improvement of the safety concept.",
+        "options": [
+            "A) The PDCA cycle (Plan, Do, Check, Act) is used to systematically update the safety concept, including planning, implementation, checking through audits/reporting, and acting for improvement and replanning",
+            "B) The PDCA cycle serves as a legal requirement for compliance with IT security laws",
+            "C) It is primarily used for financial auditing of IT security measures",
+            "D) It stands for Public, Private, Confidential, Anonymous data classification"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "What are Key Goal Indicators (KGIs) and Key Performance Indicators (KPIs) used for in the verification based on key figures?",
+        "options": [
+            "A) KGIs are used for assessing process results and indicating whether a goal has been achieved, while KPIs measure process performance and the ability or probability to achieve a KGI",
+            "B) KGIs determine the budget allocation for IT departments, while KPIs are used to evaluate employee performance",
+            "C) KGIs are theoretical concepts without practical application, whereas KPIs are used in marketing strategies",
+            "D) Both are used interchangeably in IT security management"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Explain the importance of the IT Baseline Protection profile and its structure.",
+        "options": [
+            "A) It serves as a guideline for coffee break schedules in IT departments",
+            "B) IT Baseline Protection profiles serve as templates for implementing the IT Baseline Protection approach in specific scenarios, structured into formal aspects, scope determination, reference architecture, requirements, risk assessment, and application instructions",
+            "C) Its main purpose is to define the color scheme for security documentation",
+            "D) It outlines the dress code for IT security professionals"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What differentiates first-party, second-party, and third-party audits in the IT Baseline Protection context?",
+        "options": [
+            "A) First-party audits focus on environmental impact, second-party on financial aspects, and third-party on social impact",
+            "B) First-party audits are internal audits where the auditee and auditing institution are the same. Second-party audits involve different auditing and auditee institutions, typically service provider audits. Third-party audits are conducted by fully independent parties, usually for certification",
+            "C) There is no difference; all audits are essentially the same",
+            "D) First-party audits are conducted by robots, second-party by humans, and third-party by extraterrestrial beings"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Discuss the professional and personal requirements for an auditor.",
+        "options": [
+            "A) Auditors must be proficient in at least five languages and have a black belt in karate",
+            "B) Auditors are required to have supernatural abilities for detecting security flaws",
+            "C) Auditors must be professionally qualified with traceable professional experience and qualifications, and personally suitable, demonstrating independence, confidentiality, objectivity, factual representation, and verifiable documentation of results",
+            "D) The only requirement is to own a collection of vintage computers"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What steps are involved in the emergency management process according to BSI Standard 100-4?",
+        "options": [
+            "A) The process includes initiation, concept development, emergency preparedness concept implementation, emergency response, tests and exercises, and maintenance and continuous improvement",
+            "B) First, panic. Second, call for help. Third, hope for the best",
+            "C) The steps involve primarily blaming the intern for all IT failures",
+            "D) The process is classified and known only to select individuals within the BSI"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "How does emergency preparedness contribute to business continuity?",
+        "options": [
+            "A) It ensures all employees know where the emergency exits are",
+            "B) Emergency preparedness involves preparing for emergencies through defined structural and procedural organization, establishing restart parameters, creating restart plans, analyzing and addressing risks, and practicing emergency treatment to ensure business continuity",
+            "C) Its main function is to provide entertainment during downtime",
+            "D) It is a ceremonial process with no real impact on business operations"
+        ],
+        "correct_answer": "B"
+    }
+]
