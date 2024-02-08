@@ -10,6 +10,16 @@
         "correct_answer": "B"
     },
     {
+        "question": "What strategy recommends dealing with risks that cannot be eliminated?",
+        "options": [
+            "A) Ignoring such risks as they are rare",
+            "B) Transferring the risk to another party",
+            "C) Accepting the risk after careful analysis",
+            "D) Immediately halting all associated activities"
+        ],
+        "correct_answer": "C"
+    },
+    {
         "question": "Which of the following is NOT a principle of risk management?",
         "options": [
             "A) Risk treatment depends only on the nature of the risk",
@@ -18,6 +28,76 @@
             "D) Identification, evaluation, and treatment of risks are key steps"
         ],
         "correct_answer": "A"
+    },
+    {
+        "question": "What is a benefit of involving employees in the risk management process?",
+        "options": [
+            "A) It eliminates the need for a dedicated risk management team",
+            "B) It reduces the workload on senior management",
+            "C) It enhances risk identification and ownership",
+            "D) It ensures no risks are ever realized"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What principle is emphasized for capturing target objects in IT Baseline Protection?",
+        "options": [
+            "A) Bottom-up only",
+            "B) Top-down only",
+            "C) Either top-down or bottom-up",
+            "D) Combining top-down and bottom-up approaches"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is a key factor in defining the scope of an ISMS?",
+        "options": [
+            "A) The technology available",
+            "B) The number of employees",
+            "C) The processes and information within the scope",
+            "D) The size of the IT department"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What must be clearly determined when defining the ISMS scope?",
+        "options": [
+            "A) Only the IT systems used",
+            "B) The budget for security measures",
+            "C) Exclusions and interfaces to third parties",
+            "D) The preferences of the management team"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What approach is recommended for implementing IT Baseline Protection?",
+        "options": [
+            "A) A single large step covering the entire organization",
+            "B) Many small steps with a continuous improvement process",
+            "C) Outsourcing the entire process to a third-party",
+            "D) Waiting for a security breach before taking action"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the role of the information security officer (ISO)?",
+        "options": [
+            "A) To be responsible for the IT department",
+            "B) To implement and operate the ISMS",
+            "C) To conduct external audits",
+            "D) To manage financial investments"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What determines the maximum damage in a protection requirements assessment?",
+        "options": [
+            "A) The age of the information",
+            "B) The personal preference of the assessor",
+            "C) The violation of confidentiality, integrity, or availability goals",
+            "D) The size of the IT infrastructure"
+        ],
+        "correct_answer": "C"
     },
     {
         "question": "The ISO 27000 standards provides a certifiable framework for Information Security Management Systems (ISMS).",
@@ -421,5 +501,364 @@
             "D) It is a ceremonial process with no real impact on business operations"
         ],
         "correct_answer": "B"
+    },
+    {
+        "question": "How How can risks be managed? Two options",
+        "options": [
+            "A) Top management MUST develop a risk strategy that ensures an appropriate balance between opportunities and risks",
+            "B) Emergency preparedness involves preparing for emergencies through defined structural and procedural organization, establishing restart parameters, creating restart plans, analyzing and addressing risks, and practicing emergency treatment to ensure business continuity",
+            "C) Its main function is to provide entertainment during downtime",
+            "D) It is a ceremonial process with no real impact on business operations"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The following steps SHOULD BE followed to manage risks",
+        "options": [
+            "A) Top management MUST develop a risk strategy that ensures an appropriate balance between opportunities and risks",
+            "B) Identification of risks, Evaluation of the risks            Treatment of the risks, Check for completeness, timeliness and correctness Improvement",
+            "C)Identification of risks and Solutions",
+            "D Evaluation, Systematic Evaluation"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What defines a risk in the context of ISO 31000?",
+        "options": [
+            "A) The potential for significant financial loss",
+            "B) Effect of uncertainty on objectives",
+            "C) A situation requiring immediate legal action",
+            "D) Any challenge to the organization's operational efficiency"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the main goal of developing a risk strategy by top management?",
+        "options": [
+            "A) Elimination of all business risks",
+            "B) Ensuring zero operational failures",
+            "C) Achieving an appropriate balance between opportunities and risks",
+            "D) Guaranteeing a fixed return on investment for all projects"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of the following is a principle of risk management?",
+        "options": [
+            "A) Risk treatment depends only on the impact, not the nature of the risk",
+            "B) Risk management should focus exclusively on financial risks",
+            "C) All risks must be transferred to third parties",
+            "D) Risk identification is unnecessary for well-established organizations"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "What does safety/security imply in risk management?",
+        "options": [
+            "A) A state free from any financial losses",
+            "B) A situation where no risks are identified",
+            "C) A state free from unacceptable risks",
+            "D) Complete elimination of all operational risks"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Why is freedom from risk not a goal for any institution?",
+        "options": [
+            "A) It is impossible to achieve",
+            "B) It implies freedom from opportunity",
+            "C) All institutions inherently accept all risks",
+            "D) Risks are not relevant to institutional success"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "How does the 'divide and conquer' principle apply to risk management?",
+        "options": [
+            "A) By separating financial risks from operational risks",
+            "B) By dividing the organization into smaller, manageable units",
+            "C) By assessing different types of risks with expertise",
+            "D) By implementing different management systems for each risk type"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What distinguishes information security from cybersecurity?",
+        "options": [
+            "A) Information security does not consider physical risks",
+            "B) Cybersecurity focuses only on risks in cyber space",
+            "C) Information security only applies to digital data",
+            "D) Cybersecurity is not concerned with data protection"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the purpose of norms and standards in risk management?",
+        "options": [
+            "A) To provide a legal framework for penalizing breaches",
+            "B) To offer solutions to recurring problems and avoid pitfalls",
+            "C) Solely to standardize international trade practices",
+            "D) To enforce a uniform risk management process across all industries"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the main goal of an Information Security Management System (ISMS)?",
+        "options": [
+            "A) To ensure that no security breaches ever occur",
+            "B) To guarantee regulatory compliance in all jurisdictions",
+            "C) To create and maintain a security concept",
+            "D) To eliminate the need for risk assessment"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Why is a management system important?",
+        "options": [
+            "A) It replaces the need for organizational leadership",
+            "B) It ensures consistent, repeatable processes",
+            "C) It eliminates all operational risks",
+            "D) It solely focuses on financial management"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What advantage does a management system provide?",
+        "options": [
+            "A) Complete automation of the organization's operations",
+            "B) Improvement of products and customer satisfaction",
+            "C) Ensuring a 100% increase in annual profits",
+            "D) Replacement of human decision-making"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What does the ISO 27001 standard specify?",
+        "options": [
+            "A) Detailed financial auditing procedures",
+            "B) Requirements for a certifiable Information Security Management System",
+            "C) Guidelines for physical security measures only",
+            "D) Protocols for employee behavior monitoring"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "How are operational documents within a management system typically handled?",
+        "options": [
+            "A) They are unchanged over time",
+            "B) They are reviewed and adjusted frequently",
+            "C) They are considered irrelevant after initial creation",
+            "D) They are exclusively managed by external auditors"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What challenge does the ISO 2700x family face in terms of updates?",
+        "options": [
+            "A) They are updated too frequently to be practical",
+            "B) Amendments require extensive committee review and time",
+            "C) They are too specific to be applied across different industries",
+            "D) They are written in a language that is difficult to translate"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is a security concept according to the document?",
+        "options": [
+            "A) A fixed set of security measures that never change",
+            "B) A temporary measure until better solutions are found",
+            "C) A path from the actual state to a state free from unacceptable security risks",
+            "D) A legal document outlining the security responsibilities of employees"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the purpose of IT Baseline Protection according to BSI?",
+        "options": [
+            "A) To provide a minimal security standard and support for higher security requirements",
+            "B) To enforce a uniform security policy across all governmental institutions",
+            "C) To eliminate the need for risk management",
+            "D) To serve as a temporary guideline until ISO standards are adopted"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "What does the 'divide and rule' security concept emphasize?",
+        "options": [
+            "A) The division of an organization into autonomous units",
+            "B) The separation of IT and operational technology for security purposes",
+            "C) The importance of dividing security responsibilities among employees",
+            "D) The approach of addressing different security aspects separately"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Why are norms and standards critical to information security?",
+        "options": [
+            "A) They enforce governmental surveillance of private data",
+            "B) They provide guidelines and avoid known pitfalls",
+            "C) They dictate specific technological solutions to be used",
+            "D) They primarily serve to reduce organizational costs"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the strategic importance of document control within an ISMS?",
+        "options": [
+            "A) To ensure documents are only accessible to top management",
+            "B) To keep documents relevant over time through regular reviews",
+            "C) To create a legal barrier against data breaches",
+            "D) To limit document access to external auditors only"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "How does IT Baseline Protection complement ISO 27001?",
+        "options": [
+            "A) By providing a detailed procedure model suitable for public administration",
+            "B) By eliminating the need for an ISMS",
+            "C) By focusing solely on technological advancements",
+            "D) By advocating for less frequent risk analyses"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Who must initiate the ISMS?",
+        "options": [
+            "A) The IT department",
+            "B) The management level",
+            "C) External consultants",
+            "D) All employees collectively"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the central component of the ISMS?",
+        "options": [
+            "A) The security strategy",
+            "B) The appointment of an information security officer",
+            "C) The IT infrastructure",
+            "D) The compliance regulations"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "What must the rules and instructions be subject to?",
+        "options": [
+            "A) Document control",
+            "B) Annual audits",
+            "C) Management approval",
+            "D) Employee feedback"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is essential for a good organizational structure in ISMS?",
+        "options": [
+            "A) A single person taking on multiple roles",
+            "B) Clear accountability",
+            "C) Outsourcing as much as possible",
+            "D) Frequent role changes"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the purpose of modeling in IT Baseline Protection according to BSI?",
+        "options": [
+            "A) To assign process modules to the information network multiple times",
+            "B) To ensure each target object is assigned all applicable modules",
+            "C) To replace the need for an ISMS",
+            "D) To focus solely on system modules"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "How are IT Baseline Protection modules structured?",
+        "options": [
+            "A) Randomly, based on the specific needs of each organization",
+            "B) According to a defined modular principle, including hazards, requirements, and measures",
+            "C) Solely around the technology being used within the organization",
+            "D) Based on the highest risk factors identified without a modular structure"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What are the basic requirements in IT Baseline Protection?",
+        "options": [
+            "A) Optional suggestions that can be ignored",
+            "B) Guidelines that are only applicable to specific industries",
+            "C) Mandatory requirements that must be fulfilled within the framework of the ISMS",
+            "D) Recommendations that have no impact on certification"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What role do implementation notes play in IT Baseline Protection?",
+        "options": [
+            "A) They are a test basis in the context of certification",
+            "B) They describe in detail suitable measures to meet the module-specific requirements",
+            "C) They are optional and rarely used",
+            "D) They serve as legal documentation for compliance"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the goal when selecting risk treatment options according to IT Baseline Protection?",
+        "options": [
+            "A) To accept all risks without implementing any measures",
+            "B) To ensure that each risk is either avoided, reduced, transferred, or accepted",
+            "C) To transfer all risks to third parties",
+            "D) To focus exclusively on risk avoidance"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "How should the realization plan be documented according to IT Baseline Protection?",
+        "options": [
+            "A) Using a complex, proprietary software only",
+            "B) In a format that can be easily handed over to an auditor, such as an export from a ticketing system",
+            "C) Exclusively in printed format to ensure security",
+            "D) Only verbally communicated to relevant personnel"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What does the implementation status 'Partially implemented' indicate in IT Baseline Protection?",
+        "options": [
+            "A) The requirement is met in full",
+            "B) The requirement is not or only marginally fulfilled",
+            "C) Essential aspects of the requirement are fulfilled but individual aspects have not yet been fully implemented",
+            "D) The requirement is completely irrelevant and can be ignored"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What must be done if no suitable module is available in IT Baseline Protection?",
+        "options": [
+            "A) The situation should be ignored as it is considered insignificant",
+            "B) Create a new module in cooperation with relevant departments",
+            "C) Use modules from another standard unrelated to IT Baseline Protection",
+            "D) Immediately cease all related activities until a module is provided by BSI"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the significance of 'R1' marking in the consolidation of measures?",
+        "options": [
+            "A) It indicates the lowest priority measures",
+            "B) It signifies measures that are optional",
+            "C) It denotes priority as a basis for effective safety process",
+            "D) It is used to mark measures that have been completed"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "According to IT Baseline Protection, when should a risk analysis be performed?",
+        "options": [
+            "A) Only if the organization has more than 100 employees",
+            "B) Whenever a new IT system is implemented",
+            "C) If there is a high or very high need for protection for at least one protection goal",
+            "D) Annually, regardless of any changes in the IT landscape'D'"
+        ]
     }
 ]
